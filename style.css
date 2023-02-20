@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #424E61;
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.texto-header li {
+    list-style: none;
+}
